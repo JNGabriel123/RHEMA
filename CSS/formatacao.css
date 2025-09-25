@@ -11,7 +11,7 @@ body {
 
 /* Fundo */
 .bg {
-	background-image: url("../imagens/fundorhe.png");
+	/* background-image: url("../imagens/fundorhe.png"); */
 	/* background-size: cover;
   background-position: center;
   min-height: 100vh;
