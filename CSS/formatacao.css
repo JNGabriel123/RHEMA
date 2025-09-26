@@ -68,6 +68,10 @@ body section {
 	text-align: center;
 }
 
+.box-main-text {
+	margin: 0 0 40px;
+}
+
 /* Textos */
 .title {
 	margin-bottom: 15px;
@@ -108,8 +112,19 @@ body section {
 	align-items: center;
 }
 
+
+.cta-img-01 img{
+	position: absolute;
+	left: -30%;
+	bottom: 60%;
+	background-color: #ffffffc6;
+	border-radius: 40px;	
+}
+
 .cta-text {
 	max-width: 500px;
+	height: 25px;
+	margin-bottom: 5%;
 }
 
 .cta-text h2 {
@@ -118,8 +133,8 @@ body section {
 
 .cta-img {
 	position: absolute;
-	right: -100px;
-	bottom: -9px;
+	right: -40%;
+	bottom: -150%;
 }
 
 .cta-img img {

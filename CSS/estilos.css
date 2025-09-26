@@ -4,23 +4,8 @@ body {
 }
 
 .logo {
-	font-weight: 700;
-	font-size: 44px;
 	text-transform: uppercase;
-	background: linear-gradient(
-		45deg,
-		#383737,
-		#ffffff,
-		#ffffff,
-		#ffffff,
-		#ffffff,
-		#ffffff,
-		#383737
-	);
 	background-size: 400% 100%;
-	animation: logoAnim 10s linear infinite alternate;
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
 	pointer-events: none;
 }
 
@@ -109,20 +94,7 @@ body {
 	font-weight: bold;
 	line-height: 1.3;
 	text-transform: uppercase;
-	background: linear-gradient(
-		45deg,
-		#383737,
-		#ffffff,
-		#ffffff,
-		#ffffff,
-		#ffffff,
-		#ffffff,
-		#383737
-	);
 	background-size: 400% 100%;
-	animation: logoAnim 10s linear infinite;
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
 }
 
 .segundo-titulo-anjo {
@@ -131,14 +103,17 @@ body {
 	line-height: 1.5;
 	text-transform: uppercase;
 	background: linear-gradient(
-		300deg,
-		#ffdc4e,
-		#fcea5f,
-		#ffd735,
-		#ffdc4e,
-		#fcea5f,
-		#ffd735,
-		#ffdc4e
+		30deg,
+		#ffbb00,
+		#fffb01e1,
+		#ffe101,
+		#ffbb00,
+		#fffb01e1,
+		#ffe101,
+		#ffbb00,
+		#fffb01e1,
+		#ffe101,
+		#ffbb00
 	);
 	background-size: 200% 200%;
 	animation: logoAnim 10s linear infinite;
@@ -147,15 +122,15 @@ body {
 }
 
 .caixa-left {
-	background-color: #62626268;
-	border: 1px solid #fff;
+	background-color: #7c7c7c2d;
+	border: 1px solid #ffffff4c;
 	font-size: 18px;
 	font-weight: bold;
 }
 
 .caixa-right {
-	background-color: #62626268;
-	border: 1px solid #fff;
+	background-color: #7c7c7c2d;
+	border: 1px solid #ffffff4c;
 	font-size: 18px;
 	font-weight: bold;
 }
